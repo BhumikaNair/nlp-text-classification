@@ -30,4 +30,4 @@ This project performs binary sentiment classification (positive/negative) on mov
 
 ```python
 predict_sentiment("I hated every minute of this boring film. But it was a good start for beginners.")
-# Output: 'negative'
+# Output: 'negative' 
